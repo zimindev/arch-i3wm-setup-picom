@@ -1,0 +1,1 @@
+# lnx-arch-i3wm-setup-picom
