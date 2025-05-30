@@ -1,4 +1,4 @@
-# 📟 Arch + i3wm + Picom + My Setup (Blur, Rounded Corners, macOS-like Animations)
+# 🌫️ Arch + i3wm + Picom + My Setup (Blur, Rounded Corners, macOS-like Animations)
 
 ---
 
